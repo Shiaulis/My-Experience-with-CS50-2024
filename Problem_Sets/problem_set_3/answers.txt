@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It was fastest on large set of sorted data, comparable to #2 that we already know uses Merge sort
+
+sort2 uses: Merge Sort
+
+How do you know?: It was fastest on large set of random data, less than second in compare couple of seconds for programs #1 and #3. Especially since we are know that this program is consistently fast whether on sorted or random amount of data
+
+sort3 uses: Selection Sort
+
+How do you know?: Since #1 and #2 are known we understand that #3 is using selecting sort. It is also clear from running results, they are consistent for this program no matter whether sorted, reversed or random data is used - 2.5 seconds for each
+
